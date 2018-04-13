@@ -22,7 +22,7 @@ public class App
 	  
 	  @BeforeClass
 	  public void beforeClass() {
-		  
+		  System.out.println("added changes in test class by hari");
 		  System.setProperty("webdriver.ie.driver", "F:\\Saradhi.Seshagiri\\IEDriverServer.exe");
 		  driver = new InternetExplorerDriver();
 		  
