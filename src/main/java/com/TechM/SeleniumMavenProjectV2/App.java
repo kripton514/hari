@@ -40,6 +40,6 @@ public class App
 		  a1.openMyFBPage();
 		  a1.afterClass();*/
 		  
-		  System.out.println("Success..");
+		  System.out.println("Success................");
 	  }
 }
