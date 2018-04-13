@@ -62,4 +62,4 @@ public class AppTest
 	  public void afterClass() {
 		  driver.quit();
 	  }
-}
+}//added by hari
